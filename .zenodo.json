@@ -1,0 +1,29 @@
+{
+    "title": "The Material Shadow of the Digital Economy: Tracing the Supply-Chain Footprint of ICT across 164 Economies, 1990\u20132029",
+    "creators": [
+        {
+            "name": "G\u00f3mez, Raimundo El\u00edas",
+            "orcid": "0000-0002-4468-9618",
+            "affiliation": "National Scientific and Technical Research Council (CONICET), Argentina; Institute of Sociology, University of Porto, Portugal"
+        }
+    ],
+    "description": "Consumption-based material footprint of five ICT sectors computed via Leontief inverse (Schur complement + Neumann series) applied to the GLORIA MRIO database (164 economies, 120 sectors, 367 material indicators, 8 benchmark years 1990\u20132029). Includes baseline and sensitivity analysis (excluding sector 91), pre-computed footprint and multiplier data, and all figures.",
+    "keywords": [
+        "material footprint",
+        "digital economy",
+        "ICT",
+        "MRIO",
+        "ecologically unequal exchange",
+        "supply chain",
+        "dematerialisation"
+    ],
+    "license": "MIT",
+    "upload_type": "software",
+    "related_identifiers": [
+        {
+            "identifier": "https://ielab.info",
+            "relation": "references",
+            "scheme": "url"
+        }
+    ]
+}
