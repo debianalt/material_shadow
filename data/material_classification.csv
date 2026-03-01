@@ -1,0 +1,368 @@
+lfd_nr,sat_head_indicator,sat_indicator,sat_unit,mfa_category,mfa_subcategory
+1,Material,Rice,tonnes,Biomass,Crops
+2,Material,Rice_Residues,tonnes,Biomass,Crop residues
+3,Material,Wheat,tonnes,Biomass,Crops
+4,Material,Wheat_Residues,tonnes,Biomass,Crop residues
+5,Material,Barley,tonnes,Biomass,Crops
+6,Material,Barley_Residues,tonnes,Biomass,Crop residues
+7,Material,Buckwheat,tonnes,Biomass,Crops
+8,Material,Buckwheat_Residues,tonnes,Biomass,Crop residues
+9,Material,Canary seed,tonnes,Biomass,Crops
+10,Material,Canary seed_Residues,tonnes,Biomass,Crop residues
+11,Material,Cereals n.e.c.,tonnes,Biomass,Crops
+12,Material,Cereals n.e.c._Residues,tonnes,Biomass,Crop residues
+13,Material,Fonio,tonnes,Biomass,Crops
+14,Material,Fonio_Residues,tonnes,Biomass,Crop residues
+15,Material,Maize (corn),tonnes,Biomass,Crops
+16,Material,Maize (corn)_Residues,tonnes,Biomass,Crop residues
+17,Material,Millet,tonnes,Biomass,Crops
+18,Material,Millet_Residues,tonnes,Biomass,Crop residues
+19,Material,Mixed grain,tonnes,Biomass,Crops
+20,Material,Mixed grain_Residues,tonnes,Biomass,Crop residues
+21,Material,Oats,tonnes,Biomass,Crops
+22,Material,Oats_Residues,tonnes,Biomass,Crop residues
+23,Material,Quinoa,tonnes,Biomass,Crops
+24,Material,Quinoa_Residues,tonnes,Biomass,Crop residues
+25,Material,Rye,tonnes,Biomass,Crops
+26,Material,Rye_Residues,tonnes,Biomass,Crop residues
+27,Material,Sorghum,tonnes,Biomass,Crops
+28,Material,Sorghum_Residues,tonnes,Biomass,Crop residues
+29,Material,Triticale,tonnes,Biomass,Crops
+30,Material,Triticale_Residues,tonnes,Biomass,Crop residues
+31,Material,Natural rubber in primary forms,tonnes,Biomass,Crops
+32,Material,Natural rubber in primary forms_Residues,tonnes,Biomass,Crop residues
+33,Material,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",tonnes,Biomass,Crops
+34,Material,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw_Residues",tonnes,Biomass,Crop residues
+35,Material,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",tonnes,Biomass,Crops
+36,Material,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw_Residues",tonnes,Biomass,Crop residues
+37,Material,"Cinnamon and cinnamon-tree flowers, raw",tonnes,Biomass,Crops
+38,Material,"Cinnamon and cinnamon-tree flowers, raw_Residues",tonnes,Biomass,Crop residues
+39,Material,"Cloves (whole stems), raw",tonnes,Biomass,Crops
+40,Material,"Cloves (whole stems), raw_Residues",tonnes,Biomass,Crop residues
+41,Material,Cocoa beans,tonnes,Biomass,Crops
+42,Material,Cocoa beans_Residues,tonnes,Biomass,Crop residues
+43,Material,"Coffee, green",tonnes,Biomass,Crops
+44,Material,"Coffee, green_Residues",tonnes,Biomass,Crop residues
+45,Material,"Ginger, raw",tonnes,Biomass,Crops
+46,Material,"Ginger, raw_Residues",tonnes,Biomass,Crop residues
+47,Material,Hop cones,tonnes,Biomass,Crops
+48,Material,Hop cones_Residues,tonnes,Biomass,Crop residues
+49,Material,Maté leaves,tonnes,Biomass,Crops
+50,Material,Maté leaves_Residues,tonnes,Biomass,Crop residues
+51,Material,"Nutmeg, mace, cardamoms, raw",tonnes,Biomass,Crops
+52,Material,"Nutmeg, mace, cardamoms, raw_Residues",tonnes,Biomass,Crop residues
+53,Material,"Other stimulant, spice and aromatic crops, n.e.c.",tonnes,Biomass,Crops
+54,Material,"Other stimulant, spice and aromatic crops, n.e.c._Residues",tonnes,Biomass,Crop residues
+55,Material,"Pepper (Piper spp.), raw",tonnes,Biomass,Crops
+56,Material,"Pepper (Piper spp.), raw_Residues",tonnes,Biomass,Crop residues
+57,Material,"Peppermint, spearmint",tonnes,Biomass,Crops
+58,Material,"Peppermint, spearmint_Residues",tonnes,Biomass,Crop residues
+59,Material,"Pyrethrum, dried flowers",tonnes,Biomass,Crops
+60,Material,"Pyrethrum, dried flowers_Residues",tonnes,Biomass,Crop residues
+61,Material,Tea leaves,tonnes,Biomass,Crops
+62,Material,Tea leaves_Residues,tonnes,Biomass,Crop residues
+63,Material,"Vanilla, raw",tonnes,Biomass,Crops
+64,Material,"Vanilla, raw_Residues",tonnes,Biomass,Crop residues
+65,Material,Unmanufactured tobacco,tonnes,Biomass,Crops
+66,Material,Unmanufactured tobacco_Residues,tonnes,Biomass,Crop residues
+67,Material,"Cassava, fresh",tonnes,Biomass,Crops
+68,Material,"Cassava, fresh_Residues",tonnes,Biomass,Crop residues
+69,Material,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",tonnes,Biomass,Crops
+70,Material,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh_Residues",tonnes,Biomass,Crop residues
+71,Material,Potatoes,tonnes,Biomass,Crops
+72,Material,Potatoes_Residues,tonnes,Biomass,Crop residues
+73,Material,Sweet potatoes,tonnes,Biomass,Crops
+74,Material,Sweet potatoes_Residues,tonnes,Biomass,Crop residues
+75,Material,Taro,tonnes,Biomass,Crops
+76,Material,Taro_Residues,tonnes,Biomass,Crop residues
+77,Material,Yams,tonnes,Biomass,Crops
+78,Material,Yams_Residues,tonnes,Biomass,Crop residues
+79,Material,Yautia,tonnes,Biomass,Crops
+80,Material,Yautia_Residues,tonnes,Biomass,Crop residues
+81,Material,Other sugar crops n.e.c.,tonnes,Biomass,Crops
+82,Material,Other sugar crops n.e.c._Residues,tonnes,Biomass,Crop residues
+83,Material,Sugar beet,tonnes,Biomass,Crops
+84,Material,Sugar beet_Residues,tonnes,Biomass,Crop residues
+85,Material,Sugar cane,tonnes,Biomass,Crops
+86,Material,Sugar cane_Residues,tonnes,Biomass,Crop residues
+87,Material,"Bambara beans, dry",tonnes,Biomass,Crops
+88,Material,"Bambara beans, dry_Residues",tonnes,Biomass,Crop residues
+89,Material,"Beans, dry",tonnes,Biomass,Crops
+90,Material,"Beans, dry_Residues",tonnes,Biomass,Crop residues
+91,Material,"Broad beans and horse beans, dry",tonnes,Biomass,Crops
+92,Material,"Broad beans and horse beans, dry_Residues",tonnes,Biomass,Crop residues
+93,Material,"Chick peas, dry",tonnes,Biomass,Crops
+94,Material,"Chick peas, dry_Residues",tonnes,Biomass,Crop residues
+95,Material,"Cow peas, dry",tonnes,Biomass,Crops
+96,Material,"Cow peas, dry_Residues",tonnes,Biomass,Crop residues
+97,Material,"Lentils, dry",tonnes,Biomass,Crops
+98,Material,"Lentils, dry_Residues",tonnes,Biomass,Crop residues
+99,Material,Lupins,tonnes,Biomass,Crops
+100,Material,Lupins_Residues,tonnes,Biomass,Crop residues
+101,Material,Other pulses n.e.c.,tonnes,Biomass,Crops
+102,Material,Other pulses n.e.c._Residues,tonnes,Biomass,Crop residues
+103,Material,"Peas, dry",tonnes,Biomass,Crops
+104,Material,"Peas, dry_Residues",tonnes,Biomass,Crop residues
+105,Material,"Pigeon peas, dry",tonnes,Biomass,Crops
+106,Material,"Pigeon peas, dry_Residues",tonnes,Biomass,Crop residues
+107,Material,Vetches,tonnes,Biomass,Crops
+108,Material,Vetches_Residues,tonnes,Biomass,Crop residues
+109,Material,"Almonds, in shell",tonnes,Biomass,Crops
+110,Material,"Almonds, in shell_Residues",tonnes,Biomass,Crop residues
+111,Material,Areca nuts,tonnes,Biomass,Crops
+112,Material,Areca nuts_Residues,tonnes,Biomass,Crop residues
+113,Material,"Brazil nuts, in shell",tonnes,Biomass,Crops
+114,Material,"Brazil nuts, in shell_Residues",tonnes,Biomass,Crop residues
+115,Material,"Cashew nuts, in shell",tonnes,Biomass,Crops
+116,Material,"Cashew nuts, in shell_Residues",tonnes,Biomass,Crop residues
+117,Material,"Chestnuts, in shell",tonnes,Biomass,Crops
+118,Material,"Chestnuts, in shell_Residues",tonnes,Biomass,Crop residues
+119,Material,"Hazelnuts, in shell",tonnes,Biomass,Crops
+120,Material,"Hazelnuts, in shell_Residues",tonnes,Biomass,Crop residues
+121,Material,Kola nuts,tonnes,Biomass,Crops
+122,Material,Kola nuts_Residues,tonnes,Biomass,Crop residues
+123,Material,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",tonnes,Biomass,Crops
+124,Material,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c._Residues",tonnes,Biomass,Crop residues
+125,Material,"Pistachios, in shell",tonnes,Biomass,Crops
+126,Material,"Pistachios, in shell_Residues",tonnes,Biomass,Crop residues
+127,Material,"Walnuts, in shell",tonnes,Biomass,Crops
+128,Material,"Walnuts, in shell_Residues",tonnes,Biomass,Crop residues
+129,Material,Castor oil seeds,tonnes,Biomass,Crops
+130,Material,Castor oil seeds_Residues,tonnes,Biomass,Crop residues
+131,Material,"Coconuts, in shell",tonnes,Biomass,Crops
+132,Material,"Coconuts, in shell_Residues",tonnes,Biomass,Crop residues
+133,Material,"Groundnuts, excluding shelled",tonnes,Biomass,Crops
+134,Material,"Groundnuts, excluding shelled_Residues",tonnes,Biomass,Crop residues
+135,Material,Hempseed,tonnes,Biomass,Crops
+136,Material,Hempseed_Residues,tonnes,Biomass,Crop residues
+137,Material,Jojoba seeds,tonnes,Biomass,Crops
+138,Material,Jojoba seeds_Residues,tonnes,Biomass,Crop residues
+139,Material,Kapok fruit,tonnes,Biomass,Crops
+140,Material,Kapok fruit_Residues,tonnes,Biomass,Crop residues
+141,Material,Karite nuts (sheanuts),tonnes,Biomass,Crops
+142,Material,Karite nuts (sheanuts)_Residues,tonnes,Biomass,Crop residues
+143,Material,Linseed,tonnes,Biomass,Crops
+144,Material,Linseed_Residues,tonnes,Biomass,Crop residues
+145,Material,Melonseed,tonnes,Biomass,Crops
+146,Material,Melonseed_Residues,tonnes,Biomass,Crop residues
+147,Material,Mustard seed,tonnes,Biomass,Crops
+148,Material,Mustard seed_Residues,tonnes,Biomass,Crop residues
+149,Material,Oil palm fruit,tonnes,Biomass,Crops
+150,Material,Oil palm fruit_Residues,tonnes,Biomass,Crop residues
+151,Material,Olives,tonnes,Biomass,Crops
+152,Material,Olives_Residues,tonnes,Biomass,Crop residues
+153,Material,"Other oil seeds, n.e.c.",tonnes,Biomass,Crops
+154,Material,"Other oil seeds, n.e.c._Residues",tonnes,Biomass,Crop residues
+155,Material,Poppy seed,tonnes,Biomass,Crops
+156,Material,Poppy seed_Residues,tonnes,Biomass,Crop residues
+157,Material,Rape or colza seed,tonnes,Biomass,Crops
+158,Material,Rape or colza seed_Residues,tonnes,Biomass,Crop residues
+159,Material,Safflower seed,tonnes,Biomass,Crops
+160,Material,Safflower seed_Residues,tonnes,Biomass,Crop residues
+161,Material,Sesame seed,tonnes,Biomass,Crops
+162,Material,Sesame seed_Residues,tonnes,Biomass,Crop residues
+163,Material,Soya beans,tonnes,Biomass,Crops
+164,Material,Soya beans_Residues,tonnes,Biomass,Crop residues
+165,Material,Sunflower seed,tonnes,Biomass,Crops
+166,Material,Sunflower seed_Residues,tonnes,Biomass,Crop residues
+167,Material,Tallowtree seeds,tonnes,Biomass,Crops
+168,Material,Tallowtree seeds_Residues,tonnes,Biomass,Crop residues
+169,Material,Tung nuts,tonnes,Biomass,Crops
+170,Material,Tung nuts_Residues,tonnes,Biomass,Crop residues
+171,Material,Artichokes,tonnes,Biomass,Crops
+172,Material,Artichokes_Residues,tonnes,Biomass,Crop residues
+173,Material,Asparagus,tonnes,Biomass,Crops
+174,Material,Asparagus_Residues,tonnes,Biomass,Crop residues
+175,Material,"Broad beans and horse beans, green",tonnes,Biomass,Crops
+176,Material,"Broad beans and horse beans, green_Residues",tonnes,Biomass,Crop residues
+177,Material,Cabbages,tonnes,Biomass,Crops
+178,Material,Cabbages_Residues,tonnes,Biomass,Crop residues
+179,Material,Carrots and turnips,tonnes,Biomass,Crops
+180,Material,Carrots and turnips_Residues,tonnes,Biomass,Crop residues
+181,Material,Cassava leaves,tonnes,Biomass,Crops
+182,Material,Cassava leaves_Residues,tonnes,Biomass,Crop residues
+183,Material,Cauliflowers and broccoli,tonnes,Biomass,Crops
+184,Material,Cauliflowers and broccoli_Residues,tonnes,Biomass,Crop residues
+185,Material,Chicory roots,tonnes,Biomass,Crops
+186,Material,Chicory roots_Residues,tonnes,Biomass,Crop residues
+187,Material,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",tonnes,Biomass,Crops
+188,Material,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)_Residues",tonnes,Biomass,Crop residues
+189,Material,Cucumbers and gherkins,tonnes,Biomass,Crops
+190,Material,Cucumbers and gherkins_Residues,tonnes,Biomass,Crop residues
+191,Material,Eggplants (aubergines),tonnes,Biomass,Crops
+192,Material,Eggplants (aubergines)_Residues,tonnes,Biomass,Crop residues
+193,Material,Green corn (maize),tonnes,Biomass,Crops
+194,Material,Green corn (maize)_Residues,tonnes,Biomass,Crop residues
+195,Material,Green garlic,tonnes,Biomass,Crops
+196,Material,Green garlic_Residues,tonnes,Biomass,Crop residues
+197,Material,Leeks and other alliaceous vegetables,tonnes,Biomass,Crops
+198,Material,Leeks and other alliaceous vegetables_Residues,tonnes,Biomass,Crop residues
+199,Material,Lettuce and chicory,tonnes,Biomass,Crops
+200,Material,Lettuce and chicory_Residues,tonnes,Biomass,Crop residues
+201,Material,Locust beans (carobs),tonnes,Biomass,Crops
+202,Material,Locust beans (carobs)_Residues,tonnes,Biomass,Crop residues
+203,Material,Mushrooms and truffles,tonnes,Biomass,Crops
+204,Material,Mushrooms and truffles_Residues,tonnes,Biomass,Crop residues
+205,Material,Okra,tonnes,Biomass,Crops
+206,Material,Okra_Residues,tonnes,Biomass,Crop residues
+207,Material,"Onions and shallots, dry (excluding dehydrated)",tonnes,Biomass,Crops
+208,Material,"Onions and shallots, dry (excluding dehydrated)_Residues",tonnes,Biomass,Crop residues
+209,Material,"Onions and shallots, green",tonnes,Biomass,Crops
+210,Material,"Onions and shallots, green_Residues",tonnes,Biomass,Crop residues
+211,Material,"Other beans, green",tonnes,Biomass,Crops
+212,Material,"Other beans, green_Residues",tonnes,Biomass,Crop residues
+213,Material,"Other vegetables, fresh n.e.c.",tonnes,Biomass,Crops
+214,Material,"Other vegetables, fresh n.e.c._Residues",tonnes,Biomass,Crop residues
+215,Material,"Peas, green",tonnes,Biomass,Crops
+216,Material,"Peas, green_Residues",tonnes,Biomass,Crop residues
+217,Material,"Pumpkins, squash and gourds",tonnes,Biomass,Crops
+218,Material,"Pumpkins, squash and gourds_Residues",tonnes,Biomass,Crop residues
+219,Material,Spinach,tonnes,Biomass,Crops
+220,Material,Spinach_Residues,tonnes,Biomass,Crop residues
+221,Material,String beans,tonnes,Biomass,Crops
+222,Material,String beans_Residues,tonnes,Biomass,Crop residues
+223,Material,Tomatoes,tonnes,Biomass,Crops
+224,Material,Tomatoes_Residues,tonnes,Biomass,Crop residues
+225,Material,Apples,tonnes,Biomass,Crops
+226,Material,Apples_Residues,tonnes,Biomass,Crop residues
+227,Material,Apricots,tonnes,Biomass,Crops
+228,Material,Apricots_Residues,tonnes,Biomass,Crop residues
+229,Material,Avocados,tonnes,Biomass,Crops
+230,Material,Avocados_Residues,tonnes,Biomass,Crop residues
+231,Material,Bananas,tonnes,Biomass,Crops
+232,Material,Bananas_Residues,tonnes,Biomass,Crop residues
+233,Material,Blueberries,tonnes,Biomass,Crops
+234,Material,Blueberries_Residues,tonnes,Biomass,Crop residues
+235,Material,Cantaloupes and other melons,tonnes,Biomass,Crops
+236,Material,Cantaloupes and other melons_Residues,tonnes,Biomass,Crop residues
+237,Material,Cashewapple,tonnes,Biomass,Crops
+238,Material,Cashewapple_Residues,tonnes,Biomass,Crop residues
+239,Material,Cherries,tonnes,Biomass,Crops
+240,Material,Cherries_Residues,tonnes,Biomass,Crop residues
+241,Material,Cranberries,tonnes,Biomass,Crops
+242,Material,Cranberries_Residues,tonnes,Biomass,Crop residues
+243,Material,Currants,tonnes,Biomass,Crops
+244,Material,Currants_Residues,tonnes,Biomass,Crop residues
+245,Material,Dates,tonnes,Biomass,Crops
+246,Material,Dates_Residues,tonnes,Biomass,Crop residues
+247,Material,Figs,tonnes,Biomass,Crops
+248,Material,Figs_Residues,tonnes,Biomass,Crop residues
+249,Material,Gooseberries,tonnes,Biomass,Crops
+250,Material,Gooseberries_Residues,tonnes,Biomass,Crop residues
+251,Material,Grapes,tonnes,Biomass,Crops
+252,Material,Grapes_Residues,tonnes,Biomass,Crop residues
+253,Material,Kiwi fruit,tonnes,Biomass,Crops
+254,Material,Kiwi fruit_Residues,tonnes,Biomass,Crop residues
+255,Material,Lemons and limes,tonnes,Biomass,Crops
+256,Material,Lemons and limes_Residues,tonnes,Biomass,Crop residues
+257,Material,"Mangoes, guavas and mangosteens",tonnes,Biomass,Crops
+258,Material,"Mangoes, guavas and mangosteens_Residues",tonnes,Biomass,Crop residues
+259,Material,Oranges,tonnes,Biomass,Crops
+260,Material,Oranges_Residues,tonnes,Biomass,Crop residues
+261,Material,Other berries and fruits of the genus vaccinium n.e.c.,tonnes,Biomass,Crops
+262,Material,Other berries and fruits of the genus vaccinium n.e.c._Residues,tonnes,Biomass,Crop residues
+263,Material,"Other citrus fruit, n.e.c.",tonnes,Biomass,Crops
+264,Material,"Other citrus fruit, n.e.c._Residues",tonnes,Biomass,Crop residues
+265,Material,"Other fruits, n.e.c.",tonnes,Biomass,Crops
+266,Material,"Other fruits, n.e.c._Residues",tonnes,Biomass,Crop residues
+267,Material,Other pome fruits,tonnes,Biomass,Crops
+268,Material,Other pome fruits_Residues,tonnes,Biomass,Crop residues
+269,Material,Other stone fruits,tonnes,Biomass,Crops
+270,Material,Other stone fruits_Residues,tonnes,Biomass,Crop residues
+271,Material,"Other tropical fruits, n.e.c.",tonnes,Biomass,Crops
+272,Material,"Other tropical fruits, n.e.c._Residues",tonnes,Biomass,Crop residues
+273,Material,Papayas,tonnes,Biomass,Crops
+274,Material,Papayas_Residues,tonnes,Biomass,Crop residues
+275,Material,Peaches and nectarines,tonnes,Biomass,Crops
+276,Material,Peaches and nectarines_Residues,tonnes,Biomass,Crop residues
+277,Material,Pears,tonnes,Biomass,Crops
+278,Material,Pears_Residues,tonnes,Biomass,Crop residues
+279,Material,Persimmons,tonnes,Biomass,Crops
+280,Material,Persimmons_Residues,tonnes,Biomass,Crop residues
+281,Material,Pineapples,tonnes,Biomass,Crops
+282,Material,Pineapples_Residues,tonnes,Biomass,Crop residues
+283,Material,Plantains and cooking bananas,tonnes,Biomass,Crops
+284,Material,Plantains and cooking bananas_Residues,tonnes,Biomass,Crop residues
+285,Material,Plums and sloes,tonnes,Biomass,Crops
+286,Material,Plums and sloes_Residues,tonnes,Biomass,Crop residues
+287,Material,Pomelos and grapefruits,tonnes,Biomass,Crops
+288,Material,Pomelos and grapefruits_Residues,tonnes,Biomass,Crop residues
+289,Material,Quinces,tonnes,Biomass,Crops
+290,Material,Quinces_Residues,tonnes,Biomass,Crop residues
+291,Material,Raspberries,tonnes,Biomass,Crops
+292,Material,Raspberries_Residues,tonnes,Biomass,Crop residues
+293,Material,Sour cherries,tonnes,Biomass,Crops
+294,Material,Sour cherries_Residues,tonnes,Biomass,Crop residues
+295,Material,Strawberries,tonnes,Biomass,Crops
+296,Material,Strawberries_Residues,tonnes,Biomass,Crop residues
+297,Material,"Tangerines, mandarins, clementines",tonnes,Biomass,Crops
+298,Material,"Tangerines, mandarins, clementines_Residues",tonnes,Biomass,Crop residues
+299,Material,Watermelons,tonnes,Biomass,Crops
+300,Material,Watermelons_Residues,tonnes,Biomass,Crop residues
+301,Material,"Abaca, manila hemp, raw",tonnes,Biomass,Crops
+302,Material,"Abaca, manila hemp, raw_Residues",tonnes,Biomass,Crop residues
+303,Material,"Agave fibres, raw, n.e.c.",tonnes,Biomass,Crops
+304,Material,"Agave fibres, raw, n.e.c._Residues",tonnes,Biomass,Crop residues
+305,Material,"Coir, raw",tonnes,Biomass,Crops
+306,Material,"Coir, raw_Residues",tonnes,Biomass,Crop residues
+307,Material,"Flax, processed but not spun",tonnes,Biomass,Crops
+308,Material,"Flax, processed but not spun_Residues",tonnes,Biomass,Crop residues
+309,Material,"Jute, raw or retted",tonnes,Biomass,Crops
+310,Material,"Jute, raw or retted_Residues",tonnes,Biomass,Crop residues
+311,Material,"Kenaf, and other textile bast fibres, raw or retted",tonnes,Biomass,Crops
+312,Material,"Kenaf, and other textile bast fibres, raw or retted_Residues",tonnes,Biomass,Crop residues
+313,Material,"Other fibre crops, raw, n.e.c.",tonnes,Biomass,Crops
+314,Material,"Other fibre crops, raw, n.e.c._Residues",tonnes,Biomass,Crop residues
+315,Material,"Ramie, raw or retted",tonnes,Biomass,Crops
+316,Material,"Ramie, raw or retted_Residues",tonnes,Biomass,Crop residues
+317,Material,"Seed cotton, unginned",tonnes,Biomass,Crops
+318,Material,"Seed cotton, unginned_Residues",tonnes,Biomass,Crop residues
+319,Material,"Sisal, raw",tonnes,Biomass,Crops
+320,Material,"Sisal, raw_Residues",tonnes,Biomass,Crop residues
+321,Material,"True hemp, raw or retted",tonnes,Biomass,Crops
+322,Material,"True hemp, raw or retted_Residues",tonnes,Biomass,Crop residues
+323,Material,Grazed biomass,tonnes,Biomass,Grazed biomass
+324,Material,Timber (Industrial roundwood),tonnes,Biomass,Wood
+325,Material,Wood fuel and other extraction,tonnes,Biomass,Wood
+326,Material,Wild fish catch,tonnes,Biomass,Fishery and aquatic
+327,Material,All other aquatic animals,tonnes,Biomass,Fishery and aquatic
+328,Material,Aquatic plants,tonnes,Biomass,Fishery and aquatic
+329,Material,Iron ores concentrates and compounds,tonnes,Metal ores,Iron
+330,Material,Silver ores concentrates and compounds,tonnes,Metal ores,Other metals
+331,Material,Bauxite and other aluminium ores concentrates and compounds,tonnes,Metal ores,Aluminium
+332,Material,Gold ores concentrates and compounds,tonnes,Metal ores,Gold
+333,Material,Chromium ores concentrates and compounds,tonnes,Metal ores,Other metals
+334,Material,Copper ores concentrates and compounds,tonnes,Metal ores,Copper
+335,Material,Manganese ores concentrates and compounds,tonnes,Metal ores,Other metals
+336,Material,Other metal ores concentrates and compounds nec. including mixed,tonnes,Metal ores,Other metals
+337,Material,Nickel ores concentrates and compounds,tonnes,Metal ores,Other metals
+338,Material,Lead ores concentrates and compounds,tonnes,Metal ores,Other metals
+339,Material,Platinum group metal ores concentrates and compounds,tonnes,Metal ores,Other metals
+340,Material,Tin ores concentrates and compounds,tonnes,Metal ores,Other metals
+341,Material,Titanium ores concentrates and compounds,tonnes,Metal ores,Other metals
+342,Material,Uranium ores concentrates and compounds,tonnes,Metal ores,Other metals
+343,Material,Zinc ores concentrates and compounds,tonnes,Metal ores,Other metals
+344,Material,Ornamental or building stone,tonnes,Non-metallic minerals,Construction minerals
+345,Material,Chalk,tonnes,Non-metallic minerals,Industrial minerals
+346,Material,Dolomite,tonnes,Non-metallic minerals,Industrial minerals
+347,Material,Limestone,tonnes,Non-metallic minerals,Construction minerals
+348,Material,Fertilizer minerals n.e.c.,tonnes,Non-metallic minerals,Industrial minerals
+349,Material,Chemical minerals n.e.c.,tonnes,Non-metallic minerals,Industrial minerals
+350,Material,Industrial minerals n.e.c,tonnes,Non-metallic minerals,Industrial minerals
+351,Material,Salt,tonnes,Non-metallic minerals,Industrial minerals
+352,Material,Gypsum,tonnes,Non-metallic minerals,Industrial minerals
+353,Material,Structural clays,tonnes,Non-metallic minerals,Industrial minerals
+354,Material,Specialty clays,tonnes,Non-metallic minerals,Industrial minerals
+355,Material,Industrial sand and gravel,tonnes,Non-metallic minerals,Construction minerals
+356,Material,Sand gravel and crushed rock for construction,tonnes,Non-metallic minerals,Construction minerals
+357,Material,Other non-metallic minerals n.e.c.,tonnes,Non-metallic minerals,Industrial minerals
+358,Material,Lignite (brown coal),tonnes,Fossil fuels,Coal
+359,Material,Other Sub-Bituminous Coal,tonnes,Fossil fuels,Coal
+360,Material,Anthracite,tonnes,Fossil fuels,Coal
+361,Material,Coking Coal,tonnes,Fossil fuels,Coal
+362,Material,Other Bituminous Coal,tonnes,Fossil fuels,Coal
+363,Material,Peat,tonnes,Fossil fuels,Gas and peat
+364,Material,Crude oil,tonnes,Fossil fuels,Oil
+365,Material,Natural gas,tonnes,Fossil fuels,Gas and peat
+366,Material,Natural gas liquids,tonnes,Fossil fuels,Gas and peat
+367,Material,Oil shale and tar sands,tonnes,Fossil fuels,Oil
