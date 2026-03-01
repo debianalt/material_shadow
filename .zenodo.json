@@ -1,5 +1,5 @@
 {
-    "title": "The Material Shadow of the Digital Economy: Tracing the Supply-Chain Footprint of ICT across 164 Economies, 1990\u20132029 \u2014 Replication Materials",
+    "title": "The Material Shadow of the Digital Economy: Tracing the Supply-Chain Footprint of ICT across 164 Economies, 1990\u20132029",
     "creators": [
         {
             "name": "G\u00f3mez, Raimundo El\u00edas",
@@ -7,7 +7,7 @@
             "affiliation": "National Scientific and Technical Research Council (CONICET), Argentina; Institute of Sociology, University of Porto, Portugal"
         }
     ],
-    "description": "Replication materials (data, analysis scripts, and figures) for the article 'The Material Shadow of the Digital Economy: Tracing the Supply-Chain Footprint of ICT across 164 Economies, 1990\u20132029'. Includes Leontief inverse computation via Schur complement applied to the GLORIA MRIO database (164 economies, 120 sectors, 367 material indicators, 8 benchmark years), sensitivity analysis excluding sector 91 (Electrical equipment), and all publication figures.",
+    "description": "Consumption-based material footprint of five ICT sectors computed via Leontief inverse (Schur complement + Neumann series) applied to the GLORIA MRIO database (164 economies, 120 sectors, 367 material indicators, 8 benchmark years 1990\u20132029). Includes baseline and sensitivity analysis (excluding sector 91), pre-computed footprint and multiplier data, and all figures.",
     "keywords": [
         "material footprint",
         "digital economy",
